@@ -8,6 +8,7 @@ Download DragonOS https://cemaxecuter.com/
 
 Write suggestions on what to add or change in Issues
 
+  
 ## ⚠️ Alert ⚠️   
 First of all, you need to understand what are you doing and any possible consequences. Please note, that you can only use the frequencies you have a valid license for. In many countries you cannot operate any GSM RF equipment until a proper license from the regulatory authority is obtained. Running a BTS without such license and/or interfering with the commercial networks is out of law and may be punished!  
 
@@ -15,7 +16,7 @@ First of all, you need to understand what are you doing and any possible consequ
 
 `git clone https://github.com/jhonnybonny/AutoCalypsoBTS.git && cd AutoCalypsoBTS && sudo bash install.sh`
 
-  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/install.jpg" width="600" height="250"> </p>
+  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/install.jpg" width="600" height="250" > </p>
 
 ## GUI start :
 `cd autocalypsobts && sudo python3 autobts.py`
@@ -32,4 +33,4 @@ First of all, you need to understand what are you doing and any possible consequ
 ⚙️ - Settings Bash Scripts 
   
   ## Thanks for installing  :
-  I would like to say a special thank you to these people : Cemaxecuter , Mr X .
+  I would like to say a special thank you to these people : Cemaxecuter , Mr X . 
