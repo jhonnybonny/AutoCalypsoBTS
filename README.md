@@ -16,7 +16,7 @@ Write suggestions on what to add or change in Issues
 ## GUI start :
 `cd autocalypsobts && sudo python3 autobts.py`
 
-  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui1.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui5.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui3.jpg" width="300" height="200"></p>
+  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui1.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui5.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui3.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui6.jpg" width="300" height="200"></p>
   
   
   ## Thanks for installing  :
