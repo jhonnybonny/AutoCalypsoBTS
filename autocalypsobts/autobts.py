@@ -8,7 +8,7 @@ from tkinter import ttk
 
  
 def click_button():
-    stream = os.popen('sudo gnome-terminal -- ./trx.sh')
+    stream = os.popen('sudo gnome-terminal -- ./trx2.sh')
     out = stream.read()
  
 def click_button2():
@@ -59,7 +59,7 @@ def click_button12():
     out12 = stream12.read()
 
 def click_button13():
-    stream13 = os.popen('sudo gnome-terminal -- ./trx2.sh')
+    stream13 = os.popen('sudo gnome-terminal -- ./trx.sh')
     out13 = stream13.read()
 
 def click_button14():
