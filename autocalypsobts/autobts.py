@@ -57,7 +57,14 @@ def click_button11():
 def click_button12():
     stream12 = os.popen('sudo featherpad trx.sh')
     out12 = stream12.read()
-    
+
+def click_button13():
+    stream13 = os.popen('sudo gnome-terminal -- ./trx2.sh')
+    out13 = stream13.read()
+
+def click_button14():
+    stream14 = os.popen('sudo featherpad trx2.sh')
+    out14 = stream14.read()
  
 root = Tk()
 root.title("Auto CalypsoBTS")
@@ -85,17 +92,22 @@ lbl1.grid(column=0, row=0)
 lbl2 = Label(tab2, text='')  
 lbl2.grid(column=0, row=0)
 
-lbl3 = Label(tab3, text='\n                                           Simple GUI for CalypsoBTS\n\n                                           Correct application launch sequence:\n                                           Load TXR > Clock > DB > BTS \n\n                                      Test SMS :\n                                       Sends Test SMS from number 111 to all sub. \n\n                                           Subscribers show:\n                                        ID, IMSI, Phone Number\n\n\n\n\n\n\n                                           *Auto CalypsoBTS by CrTh for DragonOS*')  
+lbl3 = Label(tab3, text='\n                                         Simple GUI for CalypsoBTS\n\n                                           Correct application launch sequence:\n                                           TXR1 (or TRX1 + TRX2) > Clock > DB > BTS \n\n                                      Test SMS :\n                                       Sends Test SMS from number 111 to all sub. \n\n                                           Subscribers show:\n                                        ID, IMSI, Phone Number\n\n\n\n\n\n\n                                           *Auto CalypsoBTS by CrTh for DragonOS*')  
 lbl3.grid(column=0, row=0)
 
 tab_control.pack(expand=1, fill='both')
 
 
  
-btn = Button(tab1, text="Load TRX", background="#B7B7B7", foreground="#000",
-             padx="35", pady="10", font="16", command=click_button)
+btn13 = Button(tab1, text="TRX1", background="#B7B7B7", foreground="#000",
+             padx="12", pady="10", font="16", command=click_button13)
  
-btn.place(x=200, y=150 , anchor=CENTER)
+btn13.place(x=160, y=150 , anchor=CENTER)
+
+btn = Button(tab1, text="TRX2", background="#B7B7B7", foreground="#000",
+             padx="12", pady="10", font="16", command=click_button)
+ 
+btn.place(x=240, y=150 , anchor=CENTER)
  
 #btn.pack(side=TOP)
  
@@ -165,6 +177,11 @@ btn12 = Button(tab1, text="⚙", background="#B7B7B7", foreground="#000",
              padx="8", pady="5", font="50", command=click_button12)
  
 btn12.place(x=100, y=150, anchor=CENTER)
+
+btn14 = Button(tab1, text="⚙", background="#B7B7B7", foreground="#000",
+             padx="8", pady="5", font="50", command=click_button14)
+ 
+btn14.place(x=300, y=150, anchor=CENTER)
 
  
 root.mainloop()
