@@ -23,11 +23,14 @@ First of all, you need to understand what are you doing and any possible consequ
 
 
 
-  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui7777.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui5.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui3.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui6.jpg" width="300" height="200"></p>
+  <p><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui7777.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui5.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui3.jpg" width="300" height="200"><img src="https://github.com/jhonnybonny/just-pic-/blob/main/gui7878.jpg" width="300" height="200"></p>
   
-⚠️ If u use only 1 phone click TRX1 ⚠️
+❗️ If u use only 1 phone click TRX1 ❗️
 
-⚠️ If u use 2 phones click TRX1 then TRX2 ⚠️
+❗️ If u use 2 phones click TRX1 then TRX2 + edit Clock setting (add key -2) ❗️
+
+
+
   
 ✔️ Correct application launch sequence: TXR1 or TRX1 + TRX2 > Clock > DB > BTS
 
