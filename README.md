@@ -1,7 +1,7 @@
 # AutoCalypsoBTS 📱📞
 <p><img src="https://github.com/jhonnybonny/AutoCalypsoBTS/blob/main/autocalypsobts/ico.png" width="100" height="100" </p>
 
-A simple GUI for CalypsoBTS for DragonOS by CrTh
+A simple GUI CalypsoBTS for DragonOS by CrTh
 
 Download DragonOS https://cemaxecuter.com/
 
